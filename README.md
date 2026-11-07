@@ -28,4 +28,4 @@ Sistema de ventas para un colmado, desarrollado en Python. Permite registrar cli
 
 1. Clona el repositorio:
 ```bash
-git clone https://github.com/tu-usuario/colmado.git
+git clone https://github.com/wsli-isaac-ventura/colmado.git
