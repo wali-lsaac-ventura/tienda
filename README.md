@@ -1,4 +1,4 @@
-# Colmado - Sistema de Ventas en Python
+# Sistema de Ventas en Python
 
 Sistema de ventas para un colmado, desarrollado en Python. Permite registrar clientes, realizar pedidos, calcular totales y generar facturas, con calculadora integrada y persistencia de datos.
 
